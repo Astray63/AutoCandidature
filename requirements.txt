@@ -1,0 +1,8 @@
+requests==2.31.0
+beautifulsoup4==4.12.2
+bs4>=0.0.1
+fpdf==1.7.2
+gpt4all>=1.0.8
+tqdm>=4.67.0
+python-dotenv==1.0.0
+argparse==1.4.0 
